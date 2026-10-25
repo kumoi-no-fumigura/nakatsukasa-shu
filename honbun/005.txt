@@ -35,7 +35,7 @@ zkt-nakatsukasa-0235				長夜をいかに明して女郎花朝顏なれば露�
 zkt-nakatsukasa-0236				一道なる山ならなくに夏蟲の空に飛火とみえにける哉	
 zkt-nakatsukasa-0237				山の端は池の底にも見えなゝむ入共月の隠れざるべく	
 zkt-nakatsukasa-0238				みうしと思心の隈のなき時はつらき隠れぬ物にぞ有ける	
-zkt-nakatsukasa-0239				MA待と泣つゝ明す夜な〓〓は徒ねにもなきぬべき哉	
+zkt-nakatsukasa-0239				MA待と泣つゝ明す夜な／＼は徒ねにもなきぬべき哉	
 zkt-nakatsukasa-0240				か日くるればまづぬる萩は棹鹿の鳴聲にだに驚きやせぬ	
 zkt-nakatsukasa-0241				〓戀しきも心づからのわざなれば置所なくもてぞ煩ふ	
 zkt-nakatsukasa-0242		久しくわづらふころ		かたく繩の夏の日暮苦しくてなどかく長き命なるらむ	
