@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 243,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-nakatsukasa-0001",
@@ -3446,7 +3449,7 @@
   "blocks": 243,
   "chars": 5662,
   "poems": 243,
-  "yaku": 0,
+  "yaku": 243,
   "editions": 1,
   "updated": "2026-11-04",
   "updated_at": "2026-11-04T17:09:05+09:00"
